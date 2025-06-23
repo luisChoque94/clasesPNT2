@@ -1,5 +1,5 @@
 {
-  "name": "pomodoro-app",
+  "name": "car-shop",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,8 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@rneui/base": "^4.0.0-rc.7",
+    "@rneui/themed": "^4.0.0-rc.8",
     "expo": "~53.0.12",
     "expo-status-bar": "~2.2.3",
     "react": "19.0.0",
